@@ -1,5 +1,5 @@
 {
-    "name": "Lixim99/composer-examp",
+    "name": "lixim99/composer-examp",
     "description": "bitrix extend",
     "type": "library",
     "require": {
