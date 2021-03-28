@@ -14,7 +14,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Incl\\Handler" : "local/php_interface/include"
+            "Incl\\Handler\\" : "src/"
         }
     },
     "minimum-stability": "stable"
