@@ -1,5 +1,5 @@
 {
-    "name": "ml/composer-examp",
+    "name": "Lixim99/composer-examp",
     "description": "bitrix extend",
     "type": "library",
     "require": {
@@ -8,7 +8,7 @@
     "license": "BSD-3-Clause",
     "authors": [
         {
-            "name": "Lixim99",
+            "name": "ml",
             "email": "ml@IT-BURO.RU"
         }
     ],
